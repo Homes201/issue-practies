@@ -1,1 +1,1 @@
-# issue-practies
+# issue-practices
